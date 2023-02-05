@@ -20,7 +20,7 @@ Students can interactively participate. Instead of being a passive recipient of 
 
 ## *Medical augmented reality
 
-“AR has the potential to revolutionize medicine. During surgery, AR systems provide medical imaging data and other patient information superimposed on the operation area in the most intuitive way. Furthermore, AR aided navigation systems can reduce the risk of complications and improve the safety and quality of surgeries, AR education systems train the surgeons of tomorrow to acquire the critical skills and AR rehabilitation concepts help patients to recover faster after interventions. However, while research is rapidly evolving in the field of Medical Augmented Reality, strong relationships between doctors, engineers and industry are the key for the development and implementation of new AR systems in medicine.” Stated on the medical augmented reality website.
+“AR  has the potential to revolutionize medicine. During surgery, AR systems provide medical imaging data and other patient information superimposed on the operation area in the most intuitive way. Furthermore, AR aided navigation systems can reduce the risk of complications and improve the safety and quality of surgeries, AR education systems train the surgeons of tomorrow to acquire the critical skills and AR rehabilitation concepts help patients to recover faster after interventions. However, while research is rapidly evolving in the field of Medical Augmented Reality, strong relationships between doctors, engineers and industry are the key for the development and implementation of new AR systems in medicine.” Stated on the medical augmented reality website.
 
 ## *Strengths of augmented reality in healthcare education
 
@@ -47,7 +47,7 @@ Students can interactively participate. Instead of being a passive recipient of 
 3.Assisting mentors remotely during emergencies: When a medical emergency occurs the appropriate medical specialist may not always be available. It could be because the emergency has happened in a remote area or that there is no specialist on call. In these situations someone with nonsufficient medical background must perform the procedure. In these instances a medical professional could guide the person performing the procedure remotely, using platforms like PProximine.
 
 4.Training first responders: “AR offers more opportunities when it comes to emergency response training for medical and nonmedical personnel. Paramedics, police, and firefighters arrive at emergency sites first, and they need to be empowered to provide first aid confidently and quickly.
-5.Trainers can use AR to recreate emergencies: instead of seeing mannequins, trainees can see virtual patients with applications like PerSim, developed by medtech startup MedCognition. PerSim is easily configured to simulate various health conditions: it can simulate sweat, sounds, and various vital signs like respiration rate.” (Velichko, 2022, para 19-20)
+5.Trainers can use AR to recreate emergencies:  instead of seeing mannequins, trainees can see virtual patients with applications like PerSim, developed by medtech startup MedCognition. PerSim is easily configured to simulate various health conditions: it can simulate sweat, sounds, and various vital signs like respiration rate.” (Velichko, 2022, para 19-20)
 
 
 

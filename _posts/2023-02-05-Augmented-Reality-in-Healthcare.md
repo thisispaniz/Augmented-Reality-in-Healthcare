@@ -2,7 +2,7 @@
 layout: "default"
 title: "Augmented Reality in Healthcare"
 date: 2023-02-05 18:21:03 +0100
-permalink: "/AR-in-healthcare"
+permalink: "/AR-in-HC"
 ---
 # Augmented reality in Healthcare
 
